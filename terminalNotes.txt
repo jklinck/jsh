@@ -1,6 +1,0 @@
-This will print all running processes with their PID, PPID and CMD
-ps -eo pid,ppid,command
-    This will wrap around the command so it doesn't get cutoff like the previous command
-    ps -f -A
-
-
