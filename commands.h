@@ -1,0 +1,1 @@
+int command(const char *allTokens);
